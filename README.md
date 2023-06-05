@@ -1,6 +1,6 @@
-# todo_app
+# Blutter
 
-A new Flutter project.
+Belu's Flutter Training App.
 
 ## Getting Started
 
