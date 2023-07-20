@@ -1,7 +1,12 @@
-class TodoItem {
-  String title;
-  String? description;
-  bool isChecked;
+import 'package:freezed_annotation/freezed_annotation.dart';
 
-  TodoItem({required this.title, this.description, this.isChecked = false});
+part 'todo.freezed.dart';
+
+@freezed
+class TodoItem with _$TodoItem {
+  const factory TodoItem({
+    required String title,
+    required String? description,
+    required bool isChecked,
+  }) = _TodoItem;
 }
