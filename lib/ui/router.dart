@@ -1,7 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/foundation.dart';
 import 'package:namer_app/model/todo.dart';
-import 'package:namer_app/ui/add_todo.dart';
+import 'package:namer_app/ui/add_todo/add_todo_screen.dart';
 import 'package:namer_app/ui/home/home_screen.dart';
 import 'package:namer_app/ui/details.dart';
 

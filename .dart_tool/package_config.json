@@ -218,6 +218,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "get_it",
+      "rootUri": "file:///Users/belencarozo/.pub-cache/hosted/pub.dev/get_it-7.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "glob",
       "rootUri": "file:///Users/belencarozo/.pub-cache/hosted/pub.dev/glob-2.1.2",
       "packageUri": "lib/",
@@ -464,7 +470,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-07-11T15:52:42.803931Z",
+  "generated": "2023-07-20T16:48:31.337561Z",
   "generator": "pub",
   "generatorVersion": "3.0.3"
 }
